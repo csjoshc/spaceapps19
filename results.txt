@@ -1,0 +1,1895 @@
+NetCDF Global Attributes:
+	conventions: 'CF-1.1'
+	ref_doc: '[1] Passaro M., Cipollini P., Vignudelli S., Quartly G., Snaith H. (2014) "ALES: a multi-mission adaptive sub-waveform retracker for coastal and open ocean altimetry", Remote Sensing of Environment, Vol. 145, pp. 173-189 [2] Passaro M., Fenoglio-Marc L., Cipollini P. (2015) "Validation of Significant Wave Height From Improved Satellite Altimetry in the German Bight", IEEE Transactions on Geoscience and Remote Sensing, Vol. 53, n. 4,  pp. 2146-2156'
+	proc_center: 'NOC'
+	proc_time: '17-Aug-2015 12:36:22'
+	software_ver: 'ALES v5'
+	sph_descriptor: 'RA2_MWR_SGDR'
+	ra2_first_record_time: '21-OCT-2010 23:30:56.269681'
+	ra2_last_record_time: '22-OCT-2010 00:10:40.229637'
+	ra2_first_lat: '-51.6526degN'
+	ra2_first_long: '-11.9093degE'
+	ra2_last_lat: '81.5042degN'
+	ra2_last_long: '-122.5022degE'
+	pass_number: 89
+	ra2_l2_proc_flag: 1
+	ra2_l1b_proc_flag: 0
+	ra2_l1b_header_flag: 0
+	ra2_l2_processing_quality: '99.29%'
+	ra2_l1b_processing_quality: '100%'
+	ra2_l1b_header_quality: '100%'
+	ra2_l2_proc_thresh: '80.7%'
+	ra2_l1b_proc_thresh: '80%'
+	ra2_l1b_header_thresh: '80%'
+	ra2_flag_manoeuver: 0
+	ra2_rv_rfss_def: 'A'
+	ra2_rv_hpa_def: 'A'
+	ra2_measurement_percent: '99.9%'
+	ra2_320_band_percent: '97.61%'
+	ra2_80_band_percent: '2.05%'
+	ra2_20_band_percent: '0.32%'
+	ra2_ocean_ku_retrack_percent: '99.39%'
+	ra2_ocean_s_retrack_percent: '90.71%'
+	ra2_ice1_ku_retrack_percent: '98.85%'
+	ra2_ice1_s_retrack_percent: '94.16%'
+	ra2_ice2_ku_retrack_percent: '96.29%'
+	ra2_ice2_s_retrack_percent: '56.16%'
+	ra2_seaice_ku_retrack_percent: '99.42%'
+	ra2_peakiness_low_percent: '0%'
+	ra2_peakiness_high_percent: '4.08%'
+	mwr_bt_optimal_interpolation_percent: '0%'
+	ra2_time_shift_midframe: '0.52915s'
+	ra2_time_interval: '0.0557s'
+	ra2_if_mask_sel: 1
+	ra2_if_mask_proc: 1
+	ra2_uso_sel: 1
+	ra2_uso_proc: 0
+	average_global_pressure: '0Pa'
+	solar_activity_index: 0
+	meteo_model_version: 'ECMWF_T511'
+	doris_ionospheric_model_version: 'SSALTO/CMA'
+	mwr_first_record_time: '01-JAN-1948 00:00:00.000000'
+	mwr_last_record_time: '01-JAN-1948 00:00:00.000000'
+	mwr_first_lat: '0degN'
+	mwr_first_long: '0degE'
+	mwr_last_lat: '0degN'
+	mwr_last_long: '0degE'
+	mwr_l2_proc_flag: 1
+	mwr_l1b_proc_flag: 0
+	mwr_l1b_header_flag: 0
+	mwr_l1b_telemetry_flag: 0
+	mwr_l2_proc_quality: '0%'
+	mwr_l1b_proc_quality: '0%'
+	mwr_l1b_head_quality: '0%'
+	mwr_l1b_telem_quality: '0%'
+	mwr_l2_proc_thresh: '75.3%'
+	mwr_l1b_proc_thresh: '0%'
+	mwr_l1b_head_thresh: '0%'
+	mwr_l1b_telem_thresh: '0%'
+	ra2_ws_optimal_interpolation_percent: '0%'
+	mwr_landflag_percent: '0%'
+	mwr_seaflag_percent: '0%'
+	level_1b_product: 'RA2_MW__1PRF-P20101021_233055_000025582094_00044_45188_5490.N1'
+	orbit_state_vector_file: 'DOR_VOR_AXVF-P20101130_154200_20101020_215526_20101022_002326'
+	doris_iono: 'DORIS_TEC_MAP_FILE_FROM_SSALTO'
+	ra2_if_mask_flight_data: 'RA2_IFF_AXVIEC20101012_105218_20100930_000000_20200101_000000'
+	ra2_uso_data: 'RA2_USO_AXNIEC20100114_090543_20020101_000000_20200101_000000'
+	mwr_secondary_lobes_data: 'NOT USED'
+	attitude_data: 'EN1_VPF_AXVCNE20101130_154700_20101021_215526_20101022_004726'
+	platform_data: 'EN1_VPF_AXVCNE20101130_154700_20101021_215526_20101022_004726'
+	ecmwf_data_file_1: 'NOT_USED'
+	ecmwf_data_file_2: 'NOT_USED'
+	ecmwf_data_file_3: 'NOT_USED'
+	solar_activity_index_predict: 'NOT_USED'
+	pole_location_predicted: 'SMM_POL_AXXCNE20100302_083000_19870101_000000_20100327_000000'
+	ra2_configuration_data: 'RA2_CON_AXNIEC20100107_163055_20080123_140000_20200101_000000'
+	ra2_characterisation_data: 'RA2_CHD_AXNIEC20100112_160023_20020101_000000_20200101_000000'
+	mwr_configuration_data: 'NOT USED'
+	mwr_characterisation_coeff: 'NOT USED'
+	ra2_surface_type_data: 'MWR_LSF_AXVIEC20020313_172218_20020101_000000_20200101_000000'
+	meteo_grid_points_altitude: 'NOT_USED'
+	ra2_constant_data: 'RA2_CST_AXVIEC20020621_135858_20020101_000000_20200101_000000'
+	ocean_ice2_system_file: 'RA2_SOI_AXNIEC20090713_132100_20020101_000000_20200101_000000'
+	ice1_sea_ice_system_file: 'RA2_ICT_AXVIEC20060921_070730_20020101_000000_20200101_000000'
+	sea_state_bias_data: 'RA2_SSB_AXNIEC20090713_130625_20020101_000000_20200101_000000'
+	modified_dip_map: 'DIP_2000_2004.dat/DIP_2005_2009.dat/DIP_2010_2014.dat'
+	ionospheric_coefficients: 'NOT_USED'
+	set_harmonic_coeff: 'RA2_SET_AXVIEC20020122_150917_20020101_000000_20200101_000000'
+	ocean_tide_solution1: 'RA2_OT1_AXVIEC20040120_082051_20020101_000000_20200101_000000'
+	tidal_load_solution1: 'RA2_TLG_AXVIEC20040310_110000_20020101_000000_20200101_000000'
+	ocean_tide_solution2: 'RA2_OT2_AXNIEC20090713_142737_20020101_000000_20200101_000000'
+	tidal_load_solution2: 'RA2_TLD_AXNIEC20090713_140728_20020101_000000_20200101_000000'
+	geoid_map: 'RA2_GEO_AXVIEC20020314_093428_20020101_000000_20200101_000000'
+	mean_sea_surface_map: 'RA2_MSS_AXVIEC20031208_145545_20020101_000000_20200101_000000'
+	ocean_depth_land_elevation: 'Global_DEM_MACCES_2min_arc_resolution'
+	slope_model_map_1: 'RA2_SL1_AXVIEC20101102_120358_20020101_000000_20101022_100459'
+	slope_model_map_2: 'RA2_SL2_AXVIEC20101102_121456_20020101_000000_20101022_100459'
+	product: 'RA2_MWS_2PRF-P20101021_233056_00002384A094_00045_45188_2565.N1'
+	proc_stage: 'R'
+	ra2_l2_ref_doc: 'PO-RS-MDA-GS-2009_14/4C'
+	acquisition_station: 'PDHS-K'
+	ra2_l2_proc_center: 'F-PAC'
+	ra2_l2_proc_time: '15-DEC-2010 15:34:17.000000'
+	ra2_l2_software_ver: 'CMA/9.3_05'
+	sensing_start: '21-OCT-2010 23:30:56.269681'
+	sensing_stop: '22-OCT-2010 00:10:40.229637'
+	phase: 2
+	cycle: 94
+	rel_orbit: 45
+	abs_orbit: 45188
+	state_vector_time: '21-OCT-2010 23:31:00.000000'
+	delta_ut1: '0s'
+	x_position: '0m'
+	y_position: '0m'
+	z_position: '0m'
+	x_velocity: '0m/s'
+	y_velocity: '0m/s'
+	z_velocity: '0m/s'
+	vector_source: 'DI'
+	utc_sbt_time: '21-OCT-2010 22:18:18.149657'
+	sat_binary_time: 0
+	clock_step: '0ps'
+	leap_utc: '01-JAN-2009 00:00:00.000000'
+	leap_sign: 1
+	leap_err: 0
+	product_err: 0
+	History: 'ENVISAT N1 file reformatted to NetCDF, retaining source variable type and converting header information to attributes. Variable names determined from ENVISAT Handbook. Generation of 18Hz time, latitude, longitude and orbit height variables from 1Hz values and differences for ease of use. Addition of ALES coastal retracked variables for 20hz positions within 50km of the coast.'
+NetCDF dimension information:
+	Name: meas_ind
+		size: 20
+		type: dtype('int8')
+		long_name: 'elementary measurement index'
+		units: 'count'
+		comment: 'Set to be compliant with the CF-1.1 convention'
+	Name: time
+		size: 2141
+		type: dtype('float64')
+		long_name: 'time (sec since 2000-01-01)'
+		standard_name: 'time'
+		units: 'seconds since 2000-01-01 00:00:00.0'
+		comment: 'Generated from mjd_days mjd_secs and mjd_usecs'
+		coordinates: 'lon lat'
+NetCDF variable information:
+	Name: hz18_time
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('float64')
+		long_name: 'time (sec since 2000-01-01) of 18hz records'
+		standard_name: 'time'
+		units: 'seconds since 2000-01-01 00:00:00.0'
+		comment: 'Generated from time'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: mjd_days
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int32')
+		long_name: 'MJD Days'
+		standard_name: 'time in MJD since 01 Jan 2000'
+		units: 'days since 2000-01-01 00:00:00.0'
+		comment: 'UTC Time stamp of MDSR - days'
+		coordinates: 'lon lat'
+		add_offset: 2147483648.0
+		scale_factor: 1.0
+	Name: mjd_secs
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int32')
+		long_name: 'time of day'
+		units: 's'
+		comment: 'UTC Time stamp of MDSR - seconds within day mjd_days'
+		coordinates: 'lon lat'
+		add_offset: 2147483648.0
+		scale_factor: 1.0
+	Name: mjd_usecs
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int32')
+		long_name: 'time of second'
+		units: 's'
+		scale_factor: 1e-06
+		add_offset: 2147.483648
+		comment: 'UTC Time stamp of MDSR - micro seconds relative to mjd_secs'
+		coordinates: 'lon lat'
+	Name: qua_ind
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int8')
+		long_name: 'Quality Indicator'
+		flag_values: array([-1,  0], dtype=int8)
+		flag_meanings: 'all_zeros otherwise'
+		comment: 'Quality Indicator (-1 for MDSR is all zeros, 0 otherwise)'
+		coordinates: 'lon lat'
+	Name: IPF_version
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'IPF version'
+		comment: 'Version of IPF software used to generate record'
+		coordinates: 'lon lat'
+	Name: lat
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int32')
+		long_name: 'latitude'
+		standard_name: 'latitude'
+		units: 'degrees_north'
+		scale_factor: 1e-06
+		add_offset: 0.0
+		comment: '1 Hz latitude value defined as the latitude of the source packet centre (i.e. average of blocks 9 and 10). It is not corrected for surface slope and so represents the orbit track position. Positive latitude is North latitude'
+	Name: lon
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int32')
+		long_name: 'longitude'
+		standard_name: 'longitude'
+		units: 'degrees_east'
+		scale_factor: 1e-06
+		add_offset: 0.0
+		comment: '1 Hz longitude value defined as the longitude of the source packet centre (i.e. average of blocks 9 and 10). It is not corrected for surface slope and so represents the orbit track position. East longitude relative to Greenwich meridian'
+	Name: hz18_lat
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int32')
+		long_name: '18hz latitude'
+		standard_name: 'latitude'
+		_FillValue: 2147483647
+		units: 'degrees_north'
+		scale_factor: 1e-06
+		add_offset: 0.0
+		comment: '18 Hz latitude value as sum of lat+hz18_diff_1hz_lat*10. Positive latitude is North latitude'
+	Name: hz18_lon
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int32')
+		long_name: '18hz longitude'
+		_FillValue: 2147483647
+		standard_name: 'longitude'
+		units: 'degrees_east'
+		scale_factor: 1e-06
+		add_offset: 0.0
+		comment: '18 Hz longitude value as sum of lon+hz18_diff_1hz_lon*10. East longitude relative to Greenwich meridian'
+	Name: rec_cnt
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int32')
+		long_name: 'Record Counter'
+		units: 'count'
+		coordinates: 'lon lat'
+		add_offset: 2147483648.0
+		scale_factor: 1.0
+	Name: instr_mode_id
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int8')
+		long_name: 'Instrument Mode ID'
+		_FillValue: 127
+		flag_values: array([0, 1, 2, 3, 4, 5, 6, 7, 8], dtype=int8)
+		flag_meanings: 'spare acquisition tracking IF_Cal BITE_RF BITE_DGT preset_tracking preset_loop Output alignment_failed'
+		comment: 'Default values are output in the event of non tracking records (records not in Tracking, Preset Tracking or Preset Loop Output), wherever the sum of all Ku and S waveform samples are set to 0, or if Ku AGC or Ku onboard Rx delay are out of bounds.'
+		coordinates: 'hz18_lon hz18_lat'
+		add_offset: 128.0
+		scale_factor: 1.0
+	Name: meas_conf
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int32')
+		long_name: 'Measurement Confidence Data'
+		_FillValue: 2147483647
+		comment: 'Measurement Confidence Data Level 1B/2 [see ENVISAT User Manual, Note 1 (Annex 1): Definition of Flags in the MCD Field for NRT and OFL products Table 12.1.3-2]'
+		coordinates: 'lon lat'
+		add_offset: 2147483648.0
+		scale_factor: 1.0
+	Name: alt_cog_ellip
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int32')
+		long_name: 'Altitude of CoG above reference ellipsoid'
+		standard_name: 'height_above_reference_ellipsoid'
+		units: 'm'
+		_FillValue: 2147483647
+		scale_factor: 0.001
+		add_offset: 2147483.648
+		comment: 'The 1 Hz altitude is obtained by interpolating the OSVs available in the DORIS precise orbit files'
+		coordinates: 'lon lat'
+	Name: hz18_alt_cog_ellip
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int32')
+		long_name: 'Altitude of CoG above reference ellipsoid'
+		standard_name: 'height_above_reference_ellipsoid'
+		units: 'm'
+		_FillValue: 2147483647
+		scale_factor: 0.001
+		add_offset: 2147483.648
+		comment: '18 Hz altitude as sum of alt_cog_ellip+hz18_diff_1hz_alt'
+		coordinates: 'lon lat'
+	Name: hz18_diff_1hz_alt
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		long_name: 'altitude differences from 1Hz altitude'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'The altitude differences are computed from the elementary altitudes (extracted from the input L1b records) and the corresponding averaged altitude. To obtain the 18Hz altitude values, these values should be added to alt_cog_ellip [see ENVISAT User Manual]'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: instant_alt_rate
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Instantaneous altitude rate'
+		units: 'm/2'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'Obtained by interpolating the Orbit State Vectors in the DORIS precise orbit files'
+		coordinates: 'lon lat'
+	Name: hz18_ku_trk_cog
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int32')
+		long_name: '18Hz Ku tracker range referenced to the COG (no Doppler correction)'
+		standard_name: 'height_above_reference_ellipsoid'
+		units: 'm'
+		_FillValue: 2147483647
+		scale_factor: 0.001
+		add_offset: 2147483.648
+		comment: "The Ku-band onboard rough estimates of the altimeter range produced by the model-free tracker, derived from the L1B Ku window delay values, corrected for the distance between the satellite's CoG and the RA-2 antenna's phase centre, and adjusted for the Doppler effects. Default values are output if the corresponding elementary measurement is not Tracking, Preset Tracking or Preset Loop Output, if the input Ku and S waveform samples are all set to 0, or if the AGC_Ku or Ku Rx delay value is out of bounds"
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_s_trk_cog
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int32')
+		long_name: '18Hz S tracker range referenced to the COG (no Doppler correction)'
+		standard_name: 'height_above_reference_ellipsoid'
+		units: 'm'
+		_FillValue: 2147483647
+		scale_factor: 0.001
+		add_offset: 2147483.648
+		comment: "The S-band onboard rough estimates of the altimeter range produced by the model-free tracker, derived from the L1B S window delay values, corrected for the distance between the satellite's CoG and the RA-2 antenna's phase centre, and adjusted for the Doppler effects. Default values are output if the corresponding elementary measurement is not Tracking, Preset Tracking or Preset Loop Output, if the input Ku and S waveform samples are all set to 0, or if the AGC_Ku or Ku Rx delay value is out of bounds"
+		coordinates: 'hz18_lon hz18_lat'
+	Name: map_18hz_ku_trk
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int8')
+		long_name: 'Map of valid points for 18Hz Ku-band tracker range'
+		_FillValue: 127
+		flag_values: array([0, 1], dtype=int8)
+		flag_meanings: 'valid invalid'
+		comment: 'Map of valid points for 18Hz Ku-band tracker range. 0=valid, 1=invalid'
+		coordinates: 'hz18_lon hz18_lat'
+		add_offset: 128.0
+		scale_factor: 1.0
+	Name: ku_band_ocean_range
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int32')
+		long_name: 'Ku-band ocean range'
+		standard_name: 'altimeter_range'
+		units: 'm'
+		_FillValue: 2147483647
+		scale_factor: 0.001
+		add_offset: 2147483.648
+		comment: '1Hz estimate from the 18Hz Ku-band ocean ranges'
+		coordinates: 'lon lat'
+	Name: s_band_ocean_range
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int32')
+		long_name: 'S-band ocean range'
+		standard_name: 'altimeter_range'
+		units: 'm'
+		_FillValue: 2147483647
+		scale_factor: 0.001
+		add_offset: 2147483.648
+		comment: '1Hz estimate from the 18Hz S-band ocean ranges'
+		coordinates: 'lon lat'
+	Name: hz18_ku_band_ocean
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int32')
+		long_name: '18Hz Ku-band ocean ranges'
+		standard_name: 'altimeter_range'
+		units: 'm'
+		_FillValue: 2147483647
+		scale_factor: 0.001
+		add_offset: 2147483.648
+		comment: 'From an ocean retracking algorithm applied to the 18Hz Ku-band waveform'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_s_band_ocean
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int32')
+		long_name: '18Hz S-band ocean ranges'
+		standard_name: 'altimeter_range'
+		units: 'm'
+		_FillValue: 2147483647
+		scale_factor: 0.001
+		add_offset: 2147483.648
+		comment: 'From an ocean retracking algorithm applied to the 18Hz S-band waveform'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: sd_18hz_ku_ocean
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Standard deviation of 18Hz Ku-band ocean range'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 32.768
+		comment: 'The default value is output whenever the Number of 18Hz valid points for Ku-band ocean range values is less than a minimum threshold (currently set to 6)'
+		coordinates: 'lon lat'
+	Name: sd_18hz_s_ocean
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Standard deviation of 18Hz S-band ocean range'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 32.768
+		comment: 'The default value is output whenever the Number of 18Hz valid points for S-band ocean range values is less than a minimum threshold (currently set to 6)'
+		coordinates: 'lon lat'
+	Name: num_18hz_ku_ocean
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Number of 18Hz valid points for Ku-band ocean range'
+		units: 'count'
+		_FillValue: 32767
+		comment: 'Number of elementary measurements effectively used for calculating the averaged Ku-band ocean range value and standard deviation'
+		coordinates: 'lon lat'
+		add_offset: 32768.0
+		scale_factor: 1.0
+	Name: num_18hz_s_ocean
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Number of 18Hz valid points for S-band ocean range'
+		units: 'count'
+		_FillValue: 32767
+		comment: 'Number of elementary measurements effectively used for calculating the averaged S-band ocean range value and standard deviation'
+		coordinates: 'lon lat'
+		add_offset: 32768.0
+		scale_factor: 1.0
+	Name: map_18hz_ku_ocean
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int8')
+		long_name: 'Map of 18Hz valid points for Ku-band ocean range'
+		_FillValue: 127
+		flag_values: array([0, 1], dtype=int8)
+		flag_meanings: 'valid invalid'
+		comment: '0 = valid measurement, 1 = invalid'
+		coordinates: 'hz18_lon hz18_lat'
+		add_offset: 128.0
+		scale_factor: 1.0
+	Name: map_18hz_s_ocean
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int8')
+		long_name: 'Map of 18Hz valid points for S-band ocean range'
+		_FillValue: 127
+		flag_values: array([0, 1], dtype=int8)
+		flag_meanings: 'valid invalid'
+		comment: '0 = valid measurement, 1 = invalid'
+		coordinates: 'hz18_lon hz18_lat'
+		add_offset: 128.0
+		scale_factor: 1.0
+	Name: hz18_ku_ice1
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int32')
+		long_name: '18Hz Ku-band ice1 ranges'
+		standard_name: 'altimeter_range'
+		units: 'm'
+		_FillValue: 2147483647
+		scale_factor: 0.001
+		add_offset: 2147483.648
+		comment: 'From the ice1 algorithm applied to the 18Hz Ku-band waveform'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_s_ice1
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int32')
+		long_name: '18Hz S-band ice1 ranges'
+		standard_name: 'altimeter_range'
+		units: 'm'
+		_FillValue: 2147483647
+		scale_factor: 0.001
+		add_offset: 2147483.648
+		comment: 'From the ice1 algorithm applied to the 18Hz S-band waveform'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_ku_ice2
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int32')
+		long_name: '18Hz Ku-band ice2 ranges'
+		standard_name: 'altimeter_range'
+		units: 'm'
+		_FillValue: 2147483647
+		scale_factor: 0.001
+		add_offset: 2147483.648
+		comment: 'From the ice2 algorithm applied to the 18Hz Ku-band waveform'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_s_ice2
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int32')
+		long_name: '18Hz S-band ice2 ranges'
+		standard_name: 'altimeter_range'
+		units: 'm'
+		_FillValue: 2147483647
+		scale_factor: 0.001
+		add_offset: 2147483.648
+		comment: 'From the ice2 algorithm applied to the 18Hz S-band waveform'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_ku_seaice
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int32')
+		long_name: '18Hz Ku-band sea-ice ranges'
+		standard_name: 'altimeter_range'
+		units: 'm'
+		_FillValue: 2147483647
+		scale_factor: 0.001
+		add_offset: 2147483.648
+		comment: 'From the seaice algorithm applied to the 18Hz Ku-band waveform'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_diff_1hz_lat_ofl
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		long_name: '18Hz latitude differences from 1Hz'
+		units: 'degrees_N'
+		_FillValue: 32767
+		scale_factor: 1e-05
+		add_offset: 0.0
+		comment: '18Hz latitude differences from 1Hz latitude. 18Hz latitude is the sum of hz18_diff_1hz_lat_ofl and lat'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_diff_1hz_lon_ofl
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		long_name: '18Hz longitude differences from 1Hz'
+		units: 'degrees_E'
+		_FillValue: 32767
+		scale_factor: 1e-05
+		add_offset: 0.0
+		comment: '18Hz longitude differences from 1Hz longitude. 18Hz longitude is the sum of hz18_diff_1hz_lon_ofl and lon'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_ku_instr_corr
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		long_name: '18Hz Ku-band range instrumental correction'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'hz18_ku_instr_corr = hz18_ku_dopp_corr + TD_Flight_Cal + TD_Ground_Cal, where hz18_ku_dopp_corr is the Doppler correction, TD_flight_Cal is the time delay flight calibration and TD_Ground_Cal is the time delay ground calibration'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_s_instr_corr
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		long_name: '18Hz S-band range instrumental correction'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'hz18_s_instr_corr = hz18_s_dopp_corr + TD_Flight_Cal + TD_Ground_Cal, where hz18_s_dopp_corr is the Doppler correction, TD_flight_Cal is the time delay flight calibration and TD_Ground_Cal is the time delay ground calibration'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_ku_dopp_corr
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		long_name: '18Hz Ku-band Doppler correction'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'Computed from the 18Hz orbital altitude rates with respect to the reference ellipsoid'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_s_dopp_corr
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		long_name: '18Hz S-band Doppler correction'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'Computed from the 18Hz orbital altitude rates with respect to the reference ellipsoid'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_ku_dopp_slp_corr
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		long_name: '18Hz Ku-band Delta Doppler Slope correction'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'Calculated for a sloping surface by subtracting the flat surface Doppler correction from the general slope corrected Doppler. The default value is output if the elementary measurement is not Tracking/Preset Loop Output, if there is a data gap between adjacent orbit values, if the next record is invalid, or if this is the last record of a file'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_s_dopp_slp_corr
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		long_name: '18Hz S-band Delta Doppler Slope correction'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'Calculated for a sloping surface by subtracting the flat surface Doppler correction from the general slope corrected Doppler. The default value is output if the elementary measurement is not Tracking/Preset Loop Output, if there is a data gap between adjacent orbit values, if the next record is invalid, or if this is the last record of a file'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: mod_dry_tropo_corr
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Model dry tropospheric correction'
+		standard_name: 'altimeter_range_correction_due_to_dry_troposphere'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'From the computational grid (Gaussian grid - quasi regular in latitude, irregular in longitude) of the ECMWF model run. The dry tropospheric correction is computed by the French met office from the ECMWF temperature profiles. The SWT 2004 recommendation was to use the new FES2004 tide model, which already includes the S1 and S2 waves. The dry tropospheric correction is derived from the surface pressure filtered and corrected from the S1 and S2 waves and from a climatological value'
+		coordinates: 'lon lat'
+	Name: inv_barom_corr
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Inverted barometer correction'
+		standard_name: 'sea_surface_height_correction_due_to_air_pressure_at_low_frequency'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'Computed as inv_barom_corr = - b [Psurf - Pbar]/1000, where b = 9.948 mm/hPa, Psurf is the surface atmospheric pressure at the location and time of the altimeter measurement, and Pbar is the mean atmospheric pressure over the global ocean. Psurf is corrected first from a climatological value and then corrected for S1 and S2 (diurnal and semi-diurnal) atmospheric tides (see ENVISAT Product Handbook for more details)'
+		coordinates: 'lon lat'
+	Name: mod_wet_tropo_corr
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Model wet tropospheric correction'
+		standard_name: 'altimeter_range_correction_due_to_wet_troposphere'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'From the computational grid (Gaussian grid - quasi regular in latitude, irregular in longitude) of the ECMWF model run. The wet tropospheric correction is computed by the French met office from the ECMWF humidity and temperature profiles'
+		coordinates: 'lon lat'
+	Name: mwr_wet_tropo_corr
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'MWR derived wet tropospheric correction'
+		standard_name: 'altimeter_range_correction_due_to_wet_troposphere'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'Obtained with a neural algorithm from the 23.8 GHz and 36.5 GHz brightness temperatures (in K) interpolated to RA-2 time tag, and the ocean backscatter coefficient for Ku-band (dB), not corrected for atmospheric attenuation'
+		coordinates: 'lon lat'
+	Name: ra2_ion_corr_ku
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'RA2 ionospheric correction on Ku-band'
+		standard_name: 'altimeter_range_correction_due_to_ionosphere'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'The Ku-band and S-band sea state bias corrections are first added to the Ku-band and S-band altimeter ranges to give R_Ku and R_S, ra2_ion_corr_ku = dfKu * (R_Ku - R_S)/1000, given dfKu = f_S^2 / [f_Ku^2 - f_S^2], where f_Ku, f_S are the transmitted frequencies (in Hz)'
+		coordinates: 'lon lat'
+	Name: ra2_ion_corr_s
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'RA2 ionospheric correction on S-band'
+		standard_name: 'altimeter_range_correction_due_to_ionosphere'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'The Ku-band and S-band sea state bias corrections are first added to the Ku-band and S-band altimeter ranges to give R_Ku and R_S, ra2_ion_corr_s = dfS * (R_Ku - R_S), given dfS = f_Ku^2 / [f_Ku^2 - f_S^2] where f_Ku, f_S are the transmitted frequencies (in Hz)'
+		coordinates: 'lon lat'
+	Name: ion_corr_doris_ku
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Ionospheric correction from DORIS on Ku-band'
+		standard_name: 'altimeter_range_correction_due_to_ionosphere'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'Obtained from the DORIS daily maps of Total Electron Content'
+		coordinates: 'lon lat'
+	Name: ion_corr_doris_s
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Ionospheric correction from DORIS on S-band'
+		standard_name: 'altimeter_range_correction_due_to_ionosphere'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'Obtained from the DORIS daily maps of Total Electron Content'
+		coordinates: 'lon lat'
+	Name: ion_corr_mod_ku
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Ionospheric correction from model on Ku-band'
+		standard_name: 'altimeter_range_correction_due_to_ionosphere'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'Obtained from the GIM model for products processed with CMA v7.1 or higher (see ENVISAT Product Handbook for more details)'
+		coordinates: 'lon lat'
+	Name: ion_corr_mod_s
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Ionospheric correction from model on S-band'
+		standard_name: 'altimeter_range_correction_due_to_ionosphere'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'Obtained from the GIM model for products processed with CMA v7.1 or higher (see ENVISAT Product Handbook for more details)'
+		coordinates: 'lon lat'
+	Name: sea_bias_ku
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Sea state bias on Ku-band'
+		standard_name: 'sea_surface_height_bias_due_to_sea_surface_roughness'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: "Computed by bilinear interpolation from a table given as function of Ku-band's significant wave height and the RA-2 wind speed, derived from one year of EnviSat data (cycles 25 to 35), using crossover SSH differences and applying the non parametric estimation technique"
+		coordinates: 'lon lat'
+	Name: sea_bias_s
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Sea state bias on S-band'
+		standard_name: 'sea_surface_height_bias_due_to_sea_surface_roughness'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: "Computed by bilinear interpolation from a table given as function of Ku-band's significant wave height and the RA-2 wind speed, derived from one year of EnviSat data (cycles 25 to 35), using crossover SSH differences and applying the non parametric estimation technique"
+		coordinates: 'lon lat'
+	Name: dib_hf
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'DIB_HF MOG2D'
+		standard_name: 'sea_surface_height_correction_due_to_air_pressure_and_wind_at_high_frequency'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'Difference between the MOG2D estimate and the inverse barometer, where MOG2D is the sum of the high frequency variability of the sea surface height and the low frequency component of the inverse parameter'
+		coordinates: 'lon lat'
+	Name: square_ku_sig_wv_ht
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int32')
+		long_name: 'square of ku band swh'
+		units: 'm2'
+		_FillValue: 2147483647
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'May be negative when the SigmaC parameter (estimated by the ocean retracking) is smaller than the response width of the target point, due to speckle'
+		coordinates: 'lon lat'
+	Name: square_s_sig_wv_ht
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int32')
+		long_name: 'square of s band swh'
+		units: 'm2'
+		_FillValue: 2147483647
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'May be negative when the SigmaC parameter (estimated by the ocean retracking) is smaller than the response width of the target point, due to speckle'
+		coordinates: 'lon lat'
+	Name: ku_sig_wv_ht
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Ku-band Significant wave height'
+		standard_name: 'sea_surface_wave_significant_height'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'The 1Hz estimate from the 18Hz output ocean retracking estimates'
+		coordinates: 'lon lat'
+	Name: s_sig_wv_ht
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'S-band Significant wave height'
+		standard_name: 'sea_surface_wave_significant_height'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'The 1Hz estimate from the 18Hz output ocean retracking estimates'
+		coordinates: 'lon lat'
+	Name: sd_18hz_ku_swh
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Standard deviation of 18Hz Ku-band SWH'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'The default value is output whenever the number of valid elementary Ku ocean SWH values used for the averaging is less than a minimum threshold (currently set to 6)'
+		coordinates: 'lon lat'
+	Name: sd_18hz_s_swh
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Standard deviation of 18Hz S-band SWH'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'The default value is output whenever the number of valid elementary S ocean SWH values used for the averaging is less than a minimum threshold (currently set to 6)'
+		coordinates: 'lon lat'
+	Name: num_18hz_ku_ocean_swh
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Number of 18Hz valid points for Ku-band ocean SWH'
+		units: 'count'
+		_FillValue: 32767
+		comment: 'The number of elementary measurements effectively used to calculate the averaged ocean SWH value and standard deviation'
+		coordinates: 'lon lat'
+		add_offset: 32768.0
+		scale_factor: 1.0
+	Name: num_18hz_s_ocean_swh
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Number of 18Hz valid points for S-band ocean SWH'
+		units: 'count'
+		_FillValue: 32767
+		comment: 'The number of elementary measurements effectively used to calculate the averaged ocean SWH value and standard deviation'
+		coordinates: 'lon lat'
+		add_offset: 32768.0
+		scale_factor: 1.0
+	Name: slp_mod_flag
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int8')
+		long_name: 'Slope model present flags'
+		_FillValue: 127
+		flag_values: array([0, 1], dtype=int8)
+		flag_meanings: 'present not_present'
+		comment: 'invalid i.e. input data block not in Tracking, Preset Loop Output, or if the position of the input record is not within the models, currently only existing for Greenland and Antarctica'
+		coordinates: 'hz18_lon hz18_lat'
+		add_offset: 128.0
+		scale_factor: 1.0
+	Name: elev_echo_pt
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int32')
+		long_name: '1Hz Elevation of echoing point'
+		units: 'm'
+		_FillValue: 2147483647
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'Mean slope-corrected elevation of the echoing points in the geodetic coordinate frame. The 1Hz value is obtained by averaging only valid elevation measurements (i.e. tracking records for which the Ice-1 leading edge was inside bounds). Where a slope correction is invalid, the elevation value used relates to the elevation at the orbit nadir position corrected for tracker range offset'
+		coordinates: 'lon lat'
+	Name: hz18_diff_mean_ech_pt
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		long_name: '18Hz Elevation differences of echoing point from mean'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'Computed by subtracting the mean elevation from the elementary elevation values. Default values (set to 0) are output for non tracking records or for records where the Ice-1 leading edge is out of bounds'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_diff_1hz_lat
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		long_name: '18Hz slope-corrected latitude differences from 1Hz latitude'
+		units: 'degrees_N'
+		_FillValue: 32767
+		scale_factor: 1e-05
+		add_offset: 0.0
+		comment: 'The 18 Hz slope-corrected latitude differences are computed by subtracting the central 1 Hz latitude value (i.e. an average of the latitude locations for blocks 9 and 10) from the 18 Hz slope-corrected latitudes of the echoing point, calculated in the geodetic reference frame. Default values for the latitudes (i.e. input L1b latitude values) are used to compute these differences in the event of non tracking records and where a slope correction is not available. Note that hz18_lat_diff contains non-slope corrected latitude differences'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_diff_1hz_lon
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		long_name: '18Hz slope-corrected longitude differences from 1Hz longitude'
+		units: 'degrees_E'
+		_FillValue: 32767
+		scale_factor: 1e-05
+		add_offset: 0.0
+		comment: 'The 18 Hz slope-corrected longitude differences are computed by subtracting the central 1 Hz longitude value (i.e. an average of the longitude locations for blocks 9 and 10) from the 18 Hz slope-corrected longitudes of the echoing point, calculated in the geodetic reference frame. Default values for the longitudes (i.e. input L1b longitude values) are used to compute these differences in the event of non tracking records and where a slope correction is not available. Note that hz18_lon_diff contains non-slope corrected latitude differences'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_ku_ice2_edge_width
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		long_name: '18Hz Ku-band Ice 2 leading edge width'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'An Ice-2 retracking algorithm is applied to the 18 Hz waveform to retrieve the epoch, the leading edge, the leading edge width and the waveform amplitude [see ENVISAT User Manual]'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_s_ice2_edge_width
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		long_name: '18Hz S-band Ice 2 leading edge width'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'An Ice-2 retracking algorithm is applied to the 18 Hz waveform to retrieve the epoch, the leading edge, the leading edge width and the waveform amplitude [see ENVISAT User Manual]'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_ku_k_cal_ku
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		long_name: '18Hz Ku-band K_cal_Ku'
+		units: 'dB'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'Ku-band scaling factor for Sigma0 evaluation'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_s_k_cal_s
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		long_name: '18Hz S-band K_cal_S'
+		units: 'dB'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'S-band scaling factor for Sigma0 evaluation'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: map_18hz_k_cal_ku
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int8')
+		long_name: 'Map of valid points for 18Hz K-cal_Ku'
+		_FillValue: 127
+		flag_values: array([0, 1], dtype=int8)
+		flag_meanings: 'valid invalid'
+		comment: '0 = valid measurement, 1 = invalid'
+		coordinates: 'hz18_lon hz18_lat'
+		add_offset: 128.0
+		scale_factor: 1.0
+	Name: ku_ocean_bscat_coeff
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Ku-band corrected Ocean backscatter coefficient'
+		standard_name: 'surface_backwards_scattering_coefficient_of_radar_wave'
+		units: 'dB'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'The 1Hz estimate from the 18Hz output ocean retracking estimates'
+		coordinates: 'lon lat'
+	Name: s_ocean_bscat_coeff
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'S-band corrected Ocean backscatter coefficient'
+		standard_name: 'surface_backwards_scattering_coefficient_of_radar_wave'
+		units: 'dB'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'The 1Hz estimate from the 18Hz output ocean retracking estimates'
+		coordinates: 'lon lat'
+	Name: sd_18hz_ku_ocean_bscat
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Standard deviation of 18Hz Ku-band ocean backscatter coefficient'
+		units: 'dB'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'Standard deviation of the 1Hz estimate from the 18Hz output ocean retracking estimates'
+		coordinates: 'lon lat'
+	Name: sd_18hz_s_ocean_bscat
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Standard deviation of 18Hz S-band ocean backscatter coefficient'
+		units: 'dB'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'Standard deviation of the 1Hz estimate from the 18Hz output ocean retracking estimates'
+		coordinates: 'lon lat'
+	Name: num_18hz_ku_ocean_bscat
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Number of 18Hz valid points for Ku-band ocean backscatter coefficient'
+		units: 'count'
+		_FillValue: 32767
+		comment: 'The number of elementary measurements effectively used for calculating the averaged ocean Ku Sigma0 value and standard deviation'
+		coordinates: 'lon lat'
+		add_offset: 32768.0
+		scale_factor: 1.0
+	Name: num_18hz_s_ocean_bscat
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Number of 18Hz valid points for S-band ocean backscatter coefficient'
+		units: 'count'
+		_FillValue: 32767
+		comment: 'The number of elementary measurements effectively used for calculating the averaged ocean S Sigma0 value and standard deviation'
+		coordinates: 'lon lat'
+		add_offset: 32768.0
+		scale_factor: 1.0
+	Name: hz18_ku_ice1_bscat
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		long_name: 'Ku-band Ice1 backscatter coefficient'
+		standard_name: 'surface_backwards_scattering_coefficient_of_radar_wave'
+		units: 'dB'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'This is the backscatter estimate obtained from the Ice-1 OCoG retracker Ku-band waveform amplitude and the instrument link budget'
+		coordinates: 'lon lat'
+	Name: hz18_s_ice1_bscat
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		long_name: '18Hz S-band Ice1 backscatter coefficient'
+		standard_name: 'surface_backwards_scattering_coefficient_of_radar_wave'
+		units: 'dB'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'This is the backscatter estimate obtained from the Ice-1 OCoG retracker S-band waveform amplitude and the instrument link budget'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_ku_ice2_edge_bscat
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		long_name: '18Hz Ku-band Ice2 leading edge backscatter coefficient'
+		standard_name: 'surface_backwards_scattering_coefficient_of_radar_wave'
+		units: 'dB'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'An Ice-2 retracking algorithm is applied to the 18 Hz waveform to retrieve the epoch, the leading edge, the leading edge width and the waveform amplitude [see ENVISAT User Manual]'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_s_ice2_edge_bscat
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		long_name: '18Hz S-band Ice2 leading edge backscatter coefficient'
+		standard_name: 'surface_backwards_scattering_coefficient_of_radar_wave'
+		units: 'dB'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'An Ice-2 retracking algorithm is applied to the 18 Hz waveform to retrieve the epoch, the leading edge, the leading edge width and the waveform amplitude [see ENVISAT User Manual]'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_ku_ice2_bscat
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		long_name: '18Hz Ku-band Ice2 backscatter coefficient'
+		standard_name: 'surface_backwards_scattering_coefficient_of_radar_wave'
+		units: 'dB'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'An Ice-2 retracking algorithm is applied to the 18 Hz waveform to retrieve the epoch, the leading edge, the leading edge width and the waveform amplitude [see ENVISAT User Manual]'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_s_ice2_bscat
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		long_name: '18Hz S-band Ice2 backscatter coefficient'
+		standard_name: 'surface_backwards_scattering_coefficient_of_radar_wave'
+		units: 'dB'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'An Ice-2 retracking algorithm is applied to the 18 Hz waveform to retrieve the epoch, the leading edge, the leading edge width and the waveform amplitude [see ENVISAT User Manual]'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_ku_seaice_bscat
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		long_name: '18Hz Ku-band sea-ice backscatter coefficient'
+		standard_name: 'surface_backwards_scattering_coefficient_of_radar_wave'
+		units: 'dB'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'This is the backscatter estimate obtained from the Sea-ice retracker Ku-band waveform amplitude and the instrument link budget'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: ku_net_instr_corr_agc
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Ku-band net instrument correction for  AGC'
+		units: 'dB'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'Computed as: ku_net_instr_corr_agc =Sig0_Flight_Cal+Loss_Ground_Cal+AGC_Corr, where Sig0_Flight_Cal is the Sigma0 flight calibration factor, Loss_Ground_Cal is the loss calibration factor and AGC_Corr is the AGC correction factor'
+		coordinates: 'lon lat'
+	Name: s_net_instr_corr_agc
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'S-band  net instrument correction for AGC'
+		units: 'dB'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'Computed as: s_net_instr_corr_agc =Sig0_Flight_Cal+Loss_Ground_Cal+AGC_Corr, where Sig0_Flight_Cal is the Sigma0 flight calibration factor, Loss_Ground_Cal is the loss calibration factor and AGC_Corr is the AGC correction factor'
+		coordinates: 'lon lat'
+	Name: ku_atm_atten_corr
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Ku-band atmospheric attenuation correction'
+		units: 'dB'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'The Ku-band backscatter coefficient two-way MWR atmospheric attenuation (in dB), computed with neural algorithms as a function of TB23_Int, TB36_Int and sigma0_Ku (see ENVISAT Product Handbook for more details) This value is added to the Sigma0 in Ku-band'
+		coordinates: 'lon lat'
+	Name: s_atm_atten_corr
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'S-band atmospheric attenuation correction'
+		units: 'dB'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'The Ku-band backscatter coefficient two-way MWR atmospheric attenuation (in dB), computed with neural algorithms as a function of TB23_Int, TB36_Int and sigma0_Ku (see ENVISAT Product Handbook for more details) This value is added to the Sigma0 in Ku-band'
+		coordinates: 'lon lat'
+	Name: ku_atten_corr
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int32')
+		long_name: 'Ku-band attenuation correction - LR Patch 0003'
+		units: 'dB'
+		_FillValue: 2147483647
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'Calculated using the ocean backscatter coefficient for Ku-band, sigma0_Ku (dB) by: Rain_Att = Exp_Sigma0_Ku - sigma0_Ku where the expected Ku-band backscatter coefficient, Exp_Sigma0_Ku, is determined by linear interpolation from the input table, as a function of the S-band backscatter coefficient'
+		coordinates: 'lon lat'
+	Name: off_nad_ang_platf
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Off nadir angle of the satellite from platform data'
+		units: 'degrees'
+		_FillValue: 32767
+		scale_factor: 0.0001
+		add_offset: 0.0
+		comment: 'The squared off-nadir angle (in radians) from the platform is derived from the interpolated pitch and roll mispointing angles'
+		coordinates: 'lon lat'
+	Name: off_nad_ang_wvform
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Off nadir angle of the satellite from waveform data'
+		units: 'degrees'
+		_FillValue: 32767
+		scale_factor: 0.0001
+		add_offset: 0.0
+		comment: 'The squared off-nadir angle (in radians) from the waveform is derived from the slope of the trailing edge of the waveform. This slope is derived from the Ice-2 retracking algorithm. [For details see the ENVISAT Product Handbook]'
+		coordinates: 'lon lat'
+	Name: hz18_1st_edge_ice2_ku
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int32')
+		long_name: '18Hz Ku-band slope of the first part of the trailing edge from the ice-2 retracker'
+		units: 's-1'
+		_FillValue: 2147483647
+		comment: 'Default values are output whenever the Ku waveform leading edge is not found or the maximum amplitude-thermal noise ratio is too low, as when coming from the Ice-2 retracker'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_1st_edge_ice2_s
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int32')
+		long_name: '18Hz S-band slope of the first part of the trailing edge from the ice-2 retracker'
+		units: 's-1'
+		_FillValue: 2147483647
+		comment: 'Default values are output whenever the S waveform leading edge is not found or the maximum amplitude-thermal noise ratio is too low, as when coming from the Ice-2 retracker'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_2nd_edge_ice2_ku
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int32')
+		long_name: '18Hz Ku-band slope of the second part of the trailing edge from ice-2 retracker'
+		units: 's-1'
+		_FillValue: 2147483647
+		comment: 'Default values are output whenever the Ku waveform leading edge is not found or the maximum amplitude-thermal noise ratio is too low, as when coming from the Ice-2 retracker'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_2nd_edge_ice2_s
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int32')
+		long_name: '18Hz S-band slope of the second part of the trailing edge from ice-2 retracker'
+		units: 's-1'
+		_FillValue: 2147483647
+		comment: 'Default values are output whenever the S waveform leading edge is not found or the maximum amplitude-thermal noise ratio is too low, as when coming from the Ice-2 retracker'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: m_sea_surf_ht
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int32')
+		long_name: 'Mean sea-surface height'
+		units: 'm'
+		_FillValue: 2147483647
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'CLS (Collecte Localisation Satellite), CLS01 mean sea surface, estimated on a 1/30 degree (2 minutes) grid using a local inverse method, which also provides an estimate and an associated error field'
+		coordinates: 'lon lat'
+	Name: geoid_ht
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int32')
+		long_name: 'Geoid height'
+		standard_name: 'geoid_height_above_reference_ellipsoid'
+		units: 'm'
+		_FillValue: 2147483647
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'EGM96 geoid model (Lemoine et al., 1998)'
+		coordinates: 'lon lat'
+	Name: ocean_depland_elev
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int32')
+		long_name: 'Ocean depth/ - land elevation'
+		units: 'm'
+		_FillValue: 2147483647
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'MACESS Global Digital Elevation Model, developed at ESRIN by merging the ACE land elevation data and the Smith and Sandwell ocean bathymetry data'
+		coordinates: 'lon lat'
+	Name: tot_geocen_ocn_tide_ht_sol1
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Total geocentric ocean tide height (solution 1)'
+		standard_name: 'sea_surface_height_amplitude_due_to_geocentric_ocean_tide'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'GOT00.2b ocean tide model which consists of independent near-global estimates of eight components (Q1,O1,P1,K1,N2,M2,S2 and K2). The total geocentric ocean tide is the sum of the ocean tide height, the tidal loading height and the long period tide height'
+		coordinates: 'lon lat'
+	Name: tot_geocen_ocn_tide_ht_sol2
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Total geocentric ocean tide height(solution 2)'
+		standard_name: 'sea_surface_height_amplitude_due_to_geocentric_ocean_tide'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'FES2004 ocean tide model, generated at LEGOS. The altimeter data reprocessing consists of a new atmospheric forcing response correction (mog2D-G) applied to the data before the harmonic analysis. This model includes two extra waves, S1 and M4, to add to the nine waves of the FES2002 model'
+		coordinates: 'lon lat'
+	Name: long_period_ocn_tide_ht
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Long period Tide height'
+		standard_name: 'sea_surface_height_amplitude_due_to_equilibrium_ocean_tide'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'This equilibrium tide is added to the total geocentric ocean tide'
+		coordinates: 'lon lat'
+	Name: tidal_load_ht
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Tidal loading height'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'The height of the tidal loading induced by the ocean tide is calculated from the GOT00.2 model'
+		coordinates: 'lon lat'
+	Name: solid_earth_tide_ht
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Solid earth tide height'
+		standard_name: 'sea_surface_height_amplitude_due_to_earth_tide'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'The gravitational potential V induced by an astronomical body can be broken down into harmonic constituents, each characterised by amplitude, phase and frequency'
+		coordinates: 'lon lat'
+	Name: geocen_pole_tide_ht
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Geocentric pole tide height'
+		standard_name: 'sea_surface_height_amplitude_due_to_pole_tide'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'Geocentric tide height due to polar motion. The restored polar coordinates are obtained from the IERS centre (International Earth Rotation and Reference Systems Service), updated approximately twice a week. In the algorithm for the calculation of the polar tide different Love numbers are used over ocean and over land'
+		coordinates: 'lon lat'
+	Name: mod_surf_atm_pres
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Model surface atmospheric pressure'
+		standard_name: 'air_pressure_at_sea_level'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.1
+		add_offset: 0.0
+		comment: 'From the computational grid (Gaussian grid - quasi regular in latitude, irregular in longitude) of the ECMWF model run'
+		coordinates: 'hz18_lon hz18_lat'
+	Name: mwr_wvapour_cont
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'MWR water vapour content'
+		standard_name: 'atmosphere_water_vapor_content'
+		units: 'g/cm2'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'May also be called total column water vapour. Computed with a neural algorithm from the MWR 23.8 GHz and 36.5 GHz brightness temperatures (TB23 and TB36) interpolated to RA-2 time tag, and sigma0_Ku, not corrected for atmospheric attenuation'
+		coordinates: 'lon lat'
+	Name: mwr_liq_vapour_cont
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'MWR liquid water content'
+		standard_name: 'atmosphere_cloud_liquid_water_content'
+		units: 'kg/m2'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'Computed from the MWR 23.8 GHz and 36.5 GHz brightness temperatures (TB23 and TB36, in K) nterpolated to RA-2 time tag and the ocean backscatter coefficient for Ku-band sigma0_Ku, not corrected for atmospheric attenuation, using a neural network algorithm'
+		coordinates: 'lon lat'
+	Name: ra2_elec_cont
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'RA2 Total electron content'
+		units: 'count'
+		_FillValue: 32767
+		scale_factor: 0.1
+		add_offset: 0.0
+		comment: 'Given by ra2_elec_cont (electrons/m^2) = ra2_ion_corr_ku * f_Ku^2 / (-40250) Where f_Ku is the Ku-band radar wavelength'
+		coordinates: 'lon lat'
+	Name: ra2_wind_sp
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'RA2 wind speed'
+		standard_name: 'wind_speed'
+		units: 'm/s'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'Computed using a linear interpolation of the input wind table, according to the algorithm proposed by Abdalla. The algorithm is based on a fit between EnviSat Ku-band Sigma0 and the collocated ECMWF model wind speed, adjusted based on in-situ wind measurements'
+		coordinates: 'lon lat'
+	Name: mod_wind_sp_u
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'u component of the model wind vector'
+		standard_name: 'wind_speed'
+		units: 'm/s'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'From the U component of the 10 metre wind vector of the computational grid (Gaussian grid - quasi regular in latitude, irregular in longitude), of the ECMWF model run'
+		coordinates: 'lon lat'
+	Name: mod_wind_sp_v
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'v component of the model wind vector'
+		standard_name: 'wind_speed'
+		units: 'm/s'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'From the V component of the 10 metre wind vector of the computational grid (Gaussian grid - quasi regular in latitude, irregular in longitude), of the ECMWF model run'
+		coordinates: 'lon lat'
+	Name: tidal_load_ht_sol1
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Tidal loading height (solution1)'
+		units: 'm'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 0.0
+		comment: 'tidal loading height induced by the ocean tide calculated from the FES2002 mode'
+		coordinates: 'lon lat'
+	Name: interpole_238_temp_mwr
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Interpolated 23.8 GHz brightness temperature from MW'
+		units: 'K'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'The brightness temperature interpolated to the altimeter time tag'
+		coordinates: 'lon lat'
+	Name: interpole_365_temp_mwr
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Interpolated 36.5 GHz brightness temperature from MWR'
+		units: 'K'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'The brightness temperature interpolated to the altimeter time tag'
+		coordinates: 'lon lat'
+	Name: interpole_sd_238_temp_mwr
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Interpolated standard deviation of MWR 23.8 GHz brightness temperatur'
+		units: 'K'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'The standard deviation of the brightness temperature interpolated to the altimeter time tag'
+		coordinates: 'lon lat'
+	Name: interpole_sd_365_temp_mwr
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Interpolated standard deviation of MWR 36.5 GHz brightness temperature'
+		units: 'K'
+		_FillValue: 32767
+		scale_factor: 0.01
+		add_offset: 0.0
+		comment: 'The standard deviation of the brightness temperature interpolated to the altimeter time tag'
+		coordinates: 'lon lat'
+	Name: ave_ku_chirp
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Average Ku chirp band'
+		_FillValue: 32767
+		flag_values: array([0, 1, 2], dtype=int16)
+		flag_meanings: '320MHz 80MHz 20MHz'
+		comment: 'The minimum of the 20 elementary chirp band indexes in the source packet. Possible values: 0 if there is at least one record at 320MHz, 1 if there is at least one record at 80MHz (and the others are at 20MHz). 2 if all input records are at 20MHz'
+		coordinates: 'lon lat'
+		add_offset: 32768.0
+		scale_factor: 1.0
+	Name: ku_chirp_id
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int8')
+		long_name: 'Ku chirp band id'
+		_FillValue: 127
+		flag_values: array([0, 1, 2], dtype=int8)
+		flag_meanings: '320MHz 80MHz 20MHz'
+		comment: 'Default values are output in the event of non tracking records (records not in Tracking, Preset Tracking or Preset Loop Output), wherever the sum of all Ku and S waveforms samples are set to 0, or if Ku AGC or Ku onboard Rx delay are out of bounds.'
+		coordinates: 'hz18_lon hz18_lat'
+		add_offset: 128.0
+		scale_factor: 1.0
+	Name: error_flag_chirp_id
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int8')
+		long_name: 'Error flag for chirp band id'
+		_FillValue: 127
+		flag_values: array([0, 1], dtype=int8)
+		flag_meanings: 'valid invalid'
+		comment: 'Default values (bits set to 1) are output in the event of non tracking records (records not in Tracking, Preset Tracking or Preset Loop Output), wherever the sum of all Ku and S waveforms samples are set to 0, or if Ku AGC or Ku onboard Rx delay are out of bounds'
+		coordinates: 'hz18_lon hz18_lat'
+		add_offset: 128.0
+		scale_factor: 1.0
+	Name: instr_flag
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int32')
+		long_name: 'Instrument flag'
+		_FillValue: 2147483647
+		comment: 'See ENVISAT User Manual (Annex 1) : Definition of RA-2 Instrument Flag Table 12.1.3-3'
+		coordinates: 'lon lat'
+		add_offset: 2147483648.0
+		scale_factor: 1.0
+	Name: fault_id
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int8')
+		long_name: 'Fault identifier'
+		_FillValue: 127
+		flag_values: array([0, 1], dtype=int8)
+		flag_meanings: 'valid error'
+		comment: '0 = valid measurement, 1 = invalid'
+		coordinates: 'hz18_lon hz18_lat'
+		add_offset: 128.0
+		scale_factor: 1.0
+	Name: wvform_fault_id
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int8')
+		long_name: 'Waveforms samples fault identifier'
+		_FillValue: 127
+		flag_values: array([0, 1, 2, 3], dtype=int8)
+		flag_meanings: 'no_error Ku_waveform_samples_set_0 S_waveform_samples_set_0 Ku_and_S_waveform_samples_set_0'
+		comment: '0 => no errors, 1 => Ku waveform samples set to 0 , 2 => S waveform samples set to 0, 3 => Ku and S waveform samples set to 0. Default values (bits set to 1) are output in the event of non tracking records (records not in Tracking, Preset Tracking or Preset Loop Output), whenever the sum of all Ku and S waveforms samples is set to 0, or if Ku AGC or Ku onboard Rx delay are out of bounds'
+		coordinates: 'hz18_lon hz18_lat'
+		add_offset: 128.0
+		scale_factor: 1.0
+	Name: instr_id_data_level
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int8')
+		long_name: 'Instrument mode ID at data block level'
+		_FillValue: 127
+		flag_values: array([0, 1, 2, 3, 4, 5, 6, 7, 8], dtype=int8)
+		flag_meanings: 'spare acquisition tracking IF_Cal BITE_RF BITE_DGT preset_tracking preset_loop Output alignment_failed'
+		comment: 'Default values are output in the event of non tracking records (records not in Tracking, Preset Tracking or Preset Loop Output), wherever the sum of all Ku and S waveform samples are set to 0, or if Ku AGC or Ku onboard Rx delay are out of bounds'
+		coordinates: 'hz18_lon hz18_lat'
+		add_offset: 128.0
+		scale_factor: 1.0
+	Name: num_meas_ku_calibr
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'No. of measures for Ku flight calibration factor evaluation'
+		units: 'count'
+		_FillValue: 32767
+		comment: 'Number of Ku flight calibration factors (currently from 0 to 5) used at L1B to obtain the smoothed Sigma0 and time delay PTR flight calibration factors. Default values will appear in the event that none of the 20 elementary records are in Tracking, Preset Tracking or Preset Loop Output, where the sum of all Ku/S waveforms samples are different from 0, and where Ku AGC and Ku onboard Rx delay values are inside bounds'
+		coordinates: 'lon lat'
+		add_offset: 32768.0
+		scale_factor: 1.0
+	Name: num_meas_s_calibr
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'No. of measures for Ku flight calibration factor evaluation'
+		units: 'count'
+		_FillValue: 32767
+		comment: 'Number of S flight calibration factors (currently from 0 to 5) used at L1B to obtain the smoothed Sigma0 and time delay PTR flight calibration factors. Default values will appear in the event that none of the 20 elementary records are in Tracking, Preset Tracking or Preset Loop Output, where the sum of all Ku/S waveforms samples are different from 0, and where Ku AGC and Ku onboard Rx delay values are inside bounds'
+		coordinates: 'lon lat'
+		add_offset: 32768.0
+		scale_factor: 1.0
+	Name: mwr_instr_flag
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'MWR instrument flag'
+		_FillValue: 32767
+		comment: 'See ENVISAT User Manual (Annex 1): MWR Instrument Flag Table 12.1.4-2'
+		coordinates: 'lon lat'
+		add_offset: 32768.0
+		scale_factor: 1.0
+	Name: ku_ocean_retrk_qua
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int8')
+		long_name: 'Ku-band ocean retracking quality'
+		_FillValue: 127
+		flag_values: array([0, 1], dtype=int8)
+		flag_meanings: 'valid invalid'
+		comment: '0=valid measurement, 1=invalid i.e. non tracking record, sum of all Ku and S waveform filters set to 0, Ku AGC or Ku onboard Rx delay out of bounds, leading edge out of bounds or average power smaller than a multiple of the noise power'
+		coordinates: 'hz18_lon hz18_lat'
+		add_offset: 128.0
+		scale_factor: 1.0
+	Name: s_ocean_retrk_qua
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int8')
+		long_name: 'S-band ocean retracking quality'
+		_FillValue: 127
+		flag_values: array([0, 1], dtype=int8)
+		flag_meanings: 'valid invalid'
+		comment: '0=valid measurement, 1=invalid i.e. non tracking record, sum of all Ku and S waveform filters set to 0, Ku AGC or Ku onboard Rx delay out of bounds, leading edge out of bounds or average power smaller than a multiple of the noise power'
+		coordinates: 'hz18_lon hz18_lat'
+		add_offset: 128.0
+		scale_factor: 1.0
+	Name: ku_ice1_retrk_qua
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int8')
+		long_name: 'Ku-band ice1 retracking quality'
+		_FillValue: 127
+		flag_values: array([0, 1], dtype=int8)
+		flag_meanings: 'valid invalid'
+		comment: '0=valid measurement, 1=invalid (i.e. non tracking record, sum of all Ku waveform filters set to 0, leading edge out of bounds or average power smaller than a multiple of the noise power)'
+		coordinates: 'hz18_lon hz18_lat'
+		add_offset: 128.0
+		scale_factor: 1.0
+	Name: s_ice1_retrk_qua
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int8')
+		long_name: 'S-band ice1 retracking quality'
+		_FillValue: 127
+		flag_values: array([0, 1], dtype=int8)
+		flag_meanings: 'valid invalid'
+		comment: '0=valid measurement, 1=invalid'
+		coordinates: 'hz18_lon hz18_lat'
+		add_offset: 128.0
+		scale_factor: 1.0
+	Name: ku_ice2_retrk_qua
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int8')
+		long_name: 'Ku-band ice2 retracking quality'
+		_FillValue: 127
+		flag_values: array([0, 1], dtype=int8)
+		flag_meanings: 'valid invalid'
+		comment: '0 = valid measurement, 1 = invalid (i.e. non tracking record, sum of all Ku and S waveform filters set to 0, Ku AGC or Ku onboard Rx delay out of bounds, leading edge out of bounds or average power smaller than a multiple of the noise power)'
+		coordinates: 'hz18_lon hz18_lat'
+		add_offset: 128.0
+		scale_factor: 1.0
+	Name: s_ice2_retrk_qua
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int8')
+		long_name: 'S-band ice2 retracking quality'
+		_FillValue: 127
+		flag_values: array([0, 1], dtype=int8)
+		flag_meanings: 'valid invalid'
+		comment: '0=valid measurement, 1=invalid'
+		coordinates: 'hz18_lon hz18_lat'
+		add_offset: 128.0
+		scale_factor: 1.0
+	Name: ku_seaice_retrk_qua
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int8')
+		long_name: 'Ku-band sea-ice retracking quality'
+		_FillValue: 127
+		flag_values: array([0, 1], dtype=int8)
+		flag_meanings: 'valid invalid'
+		comment: '0 = valid measurement, 1 = invalid (i.e. non tracking record, sum of all Ku waveform filters set to 0, leading edge out of bounds or average power smaller than a multiple of the noise power)'
+		coordinates: 'hz18_lon hz18_lat'
+		add_offset: 128.0
+		scale_factor: 1.0
+	Name: ku_peak
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: '1Hz Ku-band peakiness'
+		units: '1'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 32.768
+		comment: 'The ratio of the maximum amplitude and the mean amplitude of the waveform, weighted by the ratio of the number of samples on the right of the tracking point and the total number of samples of the waveform (128). This independent waveform quality assessment parameter is computed irrespective of surface type. The 1Hz peakiness value is obtained by arithmetic averaging of the 18Hz peakiness values of the tracking records'
+		coordinates: 'lon lat'
+	Name: s_peak
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: '1Hz S-band peakiness'
+		units: '1'
+		_FillValue: 32767
+		scale_factor: 0.001
+		add_offset: 32.768
+		comment: 'The ratio of the maximum amplitude and the mean amplitude of the waveform, weighted by the ratio of the number of samples on the right of the tracking point and the total number of samples of the waveform (128). This independent waveform quality assessment parameter is computed irrespective of surface type. The 1Hz peakiness value is obtained by arithmetic averaging of the 18Hz peakiness values of the tracking records'
+		coordinates: 'lon lat'
+	Name: altim_landocean_flag
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Altimeter surface type flag'
+		_FillValue: 32767
+		flag_values: array([0, 1, 2, 3], dtype=int16)
+		flag_meanings: 'ocean seas_lakes continental_ice land'
+		comment: 'The flag is based on a land/sea mask file and has the following four meanings: 0 -> oceans or semi-enclosed seas, 1 -> enclosed seas or lakes, 2 -> continental ice, 3 -> land'
+		coordinates: 'lon lat'
+		add_offset: 32768.0
+		scale_factor: 1.0
+	Name: radio_landocean_flag
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Radiometer land-ocean flag'
+		_FillValue: 32767
+		flag_values: array([0, 1], dtype=int16)
+		flag_meanings: 'ocean land'
+		comment: 'When MWR data are not available, this flag is set to its default value which is 1 (land)'
+		coordinates: 'lon lat'
+		add_offset: 32768.0
+		scale_factor: 1.0
+	Name: mwr_qua_interp_flag
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'MWR Quality interpolation flag'
+		_FillValue: 32767
+		flag_values: array([0, 1, 2, 3], dtype=int16)
+		flag_meanings: 'interp_no_gap interp_gap extrap no_value'
+		comment: '0 -> if interpolation was OK with no gap between the two MWR measurements around the RA-2 time, 1 -> if interpolation was OK but there was a gap between the two selected MWR measurements, 2 -> if extrapolation was used, 3 -> if neither interpolation nor extrapolation could be used. The default value is output when no MWR data are available'
+		coordinates: 'lon lat'
+		add_offset: 32768.0
+		scale_factor: 1.0
+	Name: rain_flag
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Rain flag'
+		_FillValue: 32767
+		flag_values: array([0, 1, 2, 3, 4, 5], dtype=int16)
+		flag_meanings: 'no_rain rain high_prob_rain_alt high_prob_no_rain_alt ambiguous evaluation_not_possible'
+		comment: 'States 0, 1, 4 and 5 correspond to the nominal use of the algorithm. State 4 is set to advice caution to the user because sea-ice affected data can be misinterpreted as rain affected data at high latitude (above 50�). State 5 indicates that the algorithm cannot be used because of missing or bad data (i.e. surface type is land or ice or Sigma0_Ku < 0 or Sigma0_S < 0). States 2 and 3 correspond to a degraded use of the algorithm because the MWR data is not available. The setting of the flag is based only on altimeter measurements. This flag is calibrated only over ocean'
+		coordinates: 'lon lat'
+		add_offset: 32768.0
+		scale_factor: 1.0
+	Name: interpole_flag
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Interpolation flag'
+		_FillValue: 32767
+		comment: 'See ENVISAT User Manual (Annex 1): Definition of the interpolation flag Table 12.1.3-4'
+		coordinates: 'lon lat'
+		add_offset: 32768.0
+		scale_factor: 1.0
+	Name: sea_ice_flag
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Sea Ice flag'
+		_FillValue: 32767
+		flag_values: array([0, 1, 2], dtype=int16)
+		flag_meanings: 'no_ice ice not_evaluated'
+		comment: '0 ="ocean" 1 = "sea-ice" 2 = "not evaluated" [see ENVISAT User Manual]'
+		coordinates: 'lon lat'
+		add_offset: 32768.0
+		scale_factor: 1.0
+	Name: membership_1
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Sea Ice class open water'
+		units: '%'
+		_FillValue: 32767
+		comment: 'Membership value (in percentage) associated to the "Open Water" class used to compute the 3-state ocean/sea-ice flag [see ENVISAT User Manual]'
+		coordinates: 'lon lat'
+		add_offset: 32768.0
+		scale_factor: 1.0
+	Name: membership_2
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Sea Ice class first-year ice'
+		units: '%'
+		_FillValue: 32767
+		comment: 'Membership value (in percentage) associated to the "First-Year Ice" class used to compute the 3-state ocean/sea-ice flag [see ENVISAT User Manual]'
+		coordinates: 'lon lat'
+		add_offset: 32768.0
+		scale_factor: 1.0
+	Name: membership_3
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Sea Ice class wet ice'
+		units: '%'
+		_FillValue: 32767
+		comment: 'Membership value (in percentage) associated to the "Wet Ice" class used to compute the 3-state ocean/sea-ice flag [see ENVISAT User Manual]'
+		coordinates: 'lon lat'
+		add_offset: 32768.0
+		scale_factor: 1.0
+	Name: membership_4
+		dimensions: ('time',)
+		size: 2141
+		type: dtype('int16')
+		long_name: 'Sea Ice class multi-year ice'
+		units: '%'
+		_FillValue: 32767
+		comment: 'Membership value (in percentage) associated to the "Multi-Year Ice" class used to compute the 3-state ocean/sea-ice flag [see ENVISAT User Manual]'
+		coordinates: 'lon lat'
+		add_offset: 32768.0
+		scale_factor: 1.0
+	Name: hz18_ku_ALES_wfm_fit_err
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int32')
+		_FillValue: 2147483647
+		long_name: 'Error of waveform fit (ALES retracking)'
+		units: '1'
+		scale_factor: 0.0001
+		add_offset: 0.0
+		coordinates: 'hz18_lon hz18_lat'
+		comments: 'Error of the waveform fit to the leading edge, not the complete sub-waveform used in the ALES retracking, in normalised power units'
+	Name: hz18_ku_ALES_epoch
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int32')
+		_FillValue: 2147483647
+		long_name: 'Ku band epoch (ALES retracking)'
+		units: 's'
+		scale_factor: 1e-15
+		add_offset: 0.0
+		coordinates: 'hz18_lon hz18_lat'
+	Name: hz18_ku_ALES
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int32')
+		_FillValue: 2147483647
+		long_name: '18 Hz Ku band corrected altimeter range (ALES retracking)'
+		standard_name: 'altimeter_range'
+		quality_flag: 'hz18_ku_ALES_wfm_fit_err'
+		units: 'm'
+		scale_factor: 0.0001
+		add_offset: 792000.0
+		coordinates: 'hz18_lon hz18_lat'
+		comments: "Corrected for the distance between the satellite's CoG and the RA-2 antenna's phase centre and the Doppler effect (hz18_ku_dop_corr), PTR correction (hz18_PTR_corr)"
+	Name: hz18_ku_ALES_swh
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		_FillValue: 32767
+		long_name: '18 Hz Ku band significant waveheight (ALES retracking)'
+		standard_name: 'sea_surface_wave_significant_height'
+		units: 'm'
+		scale_factor: 0.001
+		add_offset: 0.0
+		coordinates: 'hz18_lon hz18_lat'
+		comments: 'Instrumental error correction in SWH calculated for ALES'
+	Name: hz18_ku_ALES_bscat
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int16')
+		_FillValue: 32767
+		long_name: '18 Hz Ku band backscatter coefficient (ALES retracking)'
+		standard_name: 'surface_backwards_scattering_coefficient_of_radar_wave'
+		units: 'dB'
+		scale_factor: 0.01
+		add_offset: 0.0
+		coordinates: 'hz18_lon hz18_lat'
+		comments: 'Corrected for hz18_ku_k_cal_ku + ku_atm_atten_corr-33.1133'
+	Name: hz18_ku_ALES_leading_edge_width
+		dimensions: ('time', 'meas_ind')
+		size: 42820
+		type: dtype('int32')
+		_FillValue: 2147483647
+		long_name: 'SigmaC (ALES retracking)'
+		units: '1'
+		scale_factor: 0.01
+		add_offset: 0.0
+		coordinates: 'hz18_lon hz18_lat'
